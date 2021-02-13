@@ -2,7 +2,7 @@
 
 ## 1.- Versión de VSFTPD instalada:
 
-![2.png]()
+![2.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/3.PNG)
 
 ## 2.- Servicios Asociados:
 
@@ -14,8 +14,8 @@
 
 Este fichero se encuentra en /etc y se llama vsftpd.conf
 
-![3.png]()
+![3.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/4.PNG)
 
 ## 4.- Usuarios y Grupos creados en la configuración
 
-![4.png]()
+![4.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/5.PNG)
