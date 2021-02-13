@@ -2,6 +2,12 @@
 
 ## En este apartado crearemos usuarios virtuales para que se puedan conectar a nuestro servidor
 
+## Pasos Previos:
+
+``` apt install apache2-utils ```
+
+``` apt install libpam-pwdfile ```
+
 ## Pasos:
 
 ### 1.- Configuramos el fichero vsftpd.conf para que nos quede de la siguiente forma:
