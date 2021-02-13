@@ -1,7 +1,6 @@
 # Acceso de los usuarios del sistema al servidor FTP
 
-## En esta práctica modificaremos la configuración para que los usuarios del sistema puedan 
-acceder a nuestro servidor
+## En esta práctica modificaremos la configuración para que los usuarios del sistema puedan acceder a nuestro servidor
 
 ## Pasos:
 
