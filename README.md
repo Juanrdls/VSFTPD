@@ -16,3 +16,9 @@ FTP el cual debe cumplir unos requisitos
 5.- [Casos Prácticos](https://github.com/Juanrdls/VSFTPD/blob/main/CasoPractico.md)
 
 # Referencias:
+
+[Comparacion](https://www.redeszone.net/tutoriales/servidores/mejores-servidores-ftp-ftpes-linux/)
+
+[Que es vsftpd](https://clouding.io/hc/es/articles/360011506019-Configurar-vsFTPd-en-GNU-Linux)
+
+Conocimientos previos aprendidos mediante proftpd
