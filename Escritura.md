@@ -7,22 +7,22 @@ Configuramos el servidor para que Anonymous pueda escribir solo en /sugerencias
 
 ### 1.- Realizamos los siguientes comandos:
 
-![16.png]()
+![16.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/16.PNG)
 
 ### 2.- Configuramos el archivo vsftpd.conf para que quede de la siguiente forma:
 
-![17.png]()
+![17.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/17.PNG)
 
 ### 3.- Comprobación:
 
 #### Subir:
 
-![18.png]()
+![18.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/18.PNG)
 
 #### Descargar:
 
-![19.png]()
+![19.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/19.PNG)
 
 ### 4.- Comprobación en el directorio raiz:
 
-![20.png]()
+![20.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/20.PNG)
