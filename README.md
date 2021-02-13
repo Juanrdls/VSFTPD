@@ -9,7 +9,7 @@ FTP el cual debe cumplir unos requisitos
 
 2.- [Comparativa con PROFTPD](https://github.com/Juanrdls/VSFTPD/blob/main/Comparativa.md)
 
-3.- [Esquema de Red]()
+3.- [Esquema de Red](https://github.com/Juanrdls/VSFTPD/blob/main/Esquema.md)
 
 4.- [Instalación]()
 
