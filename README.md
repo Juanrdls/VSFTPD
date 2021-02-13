@@ -13,6 +13,6 @@ FTP el cual debe cumplir unos requisitos
 
 4.- [Instalación](https://github.com/Juanrdls/VSFTPD/blob/main/Instalacion.md)
 
-5.- [Casos Prácticos]()
+5.- [Casos Prácticos](https://github.com/Juanrdls/VSFTPD/blob/main/CasoPractico.md)
 
 # Referencias:
