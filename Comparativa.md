@@ -14,4 +14,4 @@ deberíais hacer una idea de lo bueno y configurable que es.
 
 ## Diferencias:
 
-![Diferencias]()
+![Diferencias](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/diferencia.PNG)
