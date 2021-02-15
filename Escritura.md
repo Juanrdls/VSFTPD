@@ -1,5 +1,4 @@
-# Accedemos al servidor FTP con anonymous el cual tiene permiso de escritura en su directorio
-sugerencia el cual es un subdirectorio de su diretorio raiz.
+# Accedemos al servidor FTP con anonymous el cual tiene permiso de escritura en su directorio sugerencia el cual es un subdirectorio de su diretorio raiz.
 
 Configuramos el servidor para que Anonymous pueda escribir solo en /sugerencias
 
