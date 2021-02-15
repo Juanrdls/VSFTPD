@@ -13,7 +13,7 @@ de lectura
 
 ![13.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/13.PNG)
 
-### 3.- Accedemos mediante FTP como usuario y comprobamos que podemos bajar el archivo pero no descargar
+### 3.- Accedemos mediante FTP como usuario y comprobamos que podemos el descargar el archivo pero no subir nada al fichero
 
 ![14.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/14.PNG)
 
