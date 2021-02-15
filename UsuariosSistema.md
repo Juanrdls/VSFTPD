@@ -24,8 +24,7 @@
 
 ![9.png](https://github.com/Juanrdls/VSFTPD/blob/main/Capturas/9.PNG)
 
-#### Descomentamos la línea que nos indica: ``` 
-chroot_list_file=/etc/vsftpd.chroot_list ``` 
+#### Descomentamos la línea que nos indica: ``` chroot_list_file=/etc/vsftpd.chroot_list ``` 
 
 #### Introducimos la línea de nuestro usuario del fichero ``` /etc/passwd ``` en el fichero vsftpd.chroot_list el cual hay que crear
 
